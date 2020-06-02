@@ -2,15 +2,15 @@
 0,"Buffon
  (GK)",Juventus,0,0,0,0,0,0,0,0,90
 1,Pogba,Juventus,0,2,1,0,0,0,2,0,90
-2,Marchisio,Juventus,0,3,2,0,0,0,0,0,90
-3,Morata,Juventus,1,3,1,0,0,0,0,0,85
-4,Tévez,Juventus,0,4,2,1,0,0,2,0,90
-5,Barzagli,Juventus,0,0,0,0,0,0,1,0,90
-6,Bonucci,Juventus,0,0,0,0,0,0,1,0,90
-7,Pirlo,Juventus,0,0,0,0,0,0,0,0,90
-8,Vidal,Juventus,0,2,0,0,0,0,1,0,79
-9,Lichtsteiner,Juventus,0,0,0,0,0,0,2,0,90
-10,Evra,Juventus,0,0,0,0,0,0,0,0,89
+2,Marchisio,Juventus,0,3,2,0,2,0,0,0,90
+3,Morata,Juventus,1,3,1,0,1,0,0,0,85
+4,Tévez,Juventus,0,4,2,1,0,1,2,0,90
+5,Barzagli,Juventus,0,0,0,0,3,0,1,0,90
+6,Bonucci,Juventus,0,0,0,0,1,0,4,0,90
+7,Pirlo,Juventus,0,0,0,0,1,9,0,0,90
+8,Vidal,Juventus,0,2,0,0,3,0,5,0,79
+9,Lichtsteiner,Juventus,0,0,0,0,3,1,3,0,90
+10,Evra,Juventus,0,0,0,0,0,3,4,1,89
 11,"Storari
  (GK)",Juventus,0,0,0,0,0,0,0,0,0
 12,Ogbonna,Juventus,0,0,0,0,0,0,0,0,0
@@ -22,19 +22,19 @@
 18,Massimiliano Allegri,Juventus(COACH),0,0,0,0,0,0,0,0,0
 19,"Ter Stegen
  (GK)",Barcelona,0,0,0,0,0,0,0,0,90
-20,Piqué,Barcelona,0,0,0,0,0,0,0,0,90
-21,Rakitić,Barcelona,1,0,0,0,0,0,0,0,90
-22,Sergio Busquets,Barcelona,0,0,0,0,0,0,0,0,90
+20,Piqué,Barcelona,0,1,0,0,0,0,2,0,90
+21,Rakitić,Barcelona,1,1,1,0,0,3,1,0,90
+22,Sergio Busquets,Barcelona,0,0,0,0,2,1,0,0,90
 23,Iniesta,Barcelona,0,0,0,1,0,0,0,0,78
-24,Luis Suárez,Barcelona,1,0,0,0,0,0,0,0,90
-25,Messi,Barcelona,0,0,0,1,0,0,0,0,90
-26,Neymar,Barcelona,1,0,0,0,0,0,0,0,90
-27,Mascherano,Barcelona,0,0,0,0,0,0,0,0,90
-28,Jordi Alba,Barcelona,0,0,0,0,0,0,0,0,90
-29,Dani Alves,Barcelona,0,0,0,0,0,0,0,0,90
+24,Luis Suárez,Barcelona,1,7,3,0,0,1,1,0,90
+25,Messi,Barcelona,0,3,1,1,0,0,2,0,90
+26,Neymar,Barcelona,1,3,2,0,1,0,3,0,90
+27,Mascherano,Barcelona,0,0,0,0,2,0,0,0,90
+28,Jordi Alba,Barcelona,0,1,0,0,0,2,1,0,90
+29,Dani Alves,Barcelona,0,1,1,0,0,4,2,0,90
 30,"Bravo
  (GK)",Barcelona,0,0,0,0,0,0,0,0,0
-31,Xavi Hernández,Barcelona,0,0,0,0,0,0,0,0,12
+31,Xavi Hernández,Barcelona,0,0,0,0,0,1,0,0,12
 32,Pedro Rodríguez,Barcelona,0,0,0,1,0,0,0,0,5
 33,Rafinha,Barcelona,0,0,0,0,0,0,0,0,0
 34,Bartra,Barcelona,0,0,0,0,0,0,0,0,0
@@ -43,100 +43,100 @@
 37,Luis Enrique,Barcelona(COACH),0,0,0,0,0,0,0,0,0
 38,"Casillas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,90
-39,Varane,Real Madrid,0,0,0,0,0,0,0,0,90
-40,Ramos,Real Madrid,0,0,0,0,0,0,0,0,90
-41,Ronaldo,Real Madrid,1,0,0,0,0,0,0,0,90
-42,Kroos,Real Madrid,0,0,0,0,0,0,0,0,90
-43,Benzema,Real Madrid,0,0,0,0,0,0,0,0,67
-44,James Rodríguez,Real Madrid,0,0,0,0,0,0,0,0,90
-45,Bale,Real Madrid,0,0,0,0,0,0,0,0,90
-46,Marcelo,Real Madrid,0,0,0,0,0,0,0,0,90
-47,Carvajal,Real Madrid,0,0,0,0,0,0,0,0,90
-48,Isco,Real Madrid,0,0,0,0,0,0,0,0,90
+39,Varane,Real Madrid,0,0,0,0,1,0,1,0,90
+40,Ramos,Real Madrid,0,2,0,0,5,0,2,0,90
+41,Ronaldo,Real Madrid,1,3,1,0,0,2,0,0,90
+42,Kroos,Real Madrid,0,3,1,0,2,2,0,0,90
+43,Benzema,Real Madrid,0,4,2,0,2,0,1,0,67
+44,James Rodríguez,Real Madrid,0,1,0,0,1,9,1,0,90
+45,Bale,Real Madrid,0,7,1,0,3,1,1,0,90
+46,Marcelo,Real Madrid,0,1,0,0,2,7,1,0,90
+47,Carvajal,Real Madrid,0,0,0,0,2,5,1,0,90
+48,Isco,Real Madrid,0,1,0,0,2,7,3,0,90
 49,"Navas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,0
 50,Pepe,Real Madrid,0,0,0,0,0,0,0,0,0
 51,Fábio Coentrão,Real Madrid,0,0,0,0,0,0,0,0,0
-52,Hernández,Real Madrid,0,0,0,0,0,0,0,0,23
+52,Hernández,Real Madrid,0,1,0,0,0,1,0,0,23
 53,Arbeloa,Real Madrid,0,0,0,0,0,0,0,0,0
 54,Jesé,Real Madrid,0,0,0,0,0,0,0,0,0
 55,Illarramendi,Real Madrid,0,0,0,0,0,0,0,0,0
 56,Carlo Ancelotti,Real Madrid(COACH),0,0,0,0,0,0,0,0,0
 57,"Buffon
  (GK)",Juventus,0,0,0,0,0,0,0,0,90
-58,Chiellini,Juventus,0,0,0,0,0,0,0,0,90
-59,Pogba,Juventus,0,0,0,1,0,0,0,0,89
-60,Marchisio,Juventus,0,0,0,0,0,0,0,0,90
-61,Morata,Juventus,1,0,0,0,0,0,0,0,84
-62,Tévez,Juventus,0,0,0,0,0,0,0,0,90
-63,Bonucci,Juventus,0,0,0,0,0,0,0,0,90
-64,Pirlo,Juventus,0,0,0,0,0,0,0,0,79
-65,Vidal,Juventus,0,0,0,0,0,0,0,0,90
-66,Lichtsteiner,Juventus,0,0,0,0,0,0,0,0,90
-67,Evra,Juventus,0,0,0,0,0,0,0,0,90
+58,Chiellini,Juventus,0,0,0,0,3,1,1,0,90
+59,Pogba,Juventus,0,1,1,1,1,2,0,0,89
+60,Marchisio,Juventus,0,2,1,0,0,2,0,0,90
+61,Morata,Juventus,1,2,1,0,0,1,0,3,84
+62,Tévez,Juventus,0,0,0,0,1,0,1,0,90
+63,Bonucci,Juventus,0,0,0,0,1,0,1,0,90
+64,Pirlo,Juventus,0,0,0,0,0,6,0,0,79
+65,Vidal,Juventus,0,2,1,0,0,4,3,1,90
+66,Lichtsteiner,Juventus,0,0,0,0,2,1,0,0,90
+67,Evra,Juventus,0,0,0,0,1,2,0,1,90
 68,"Storari
  (GK)",Juventus,0,0,0,0,0,0,0,0,0
 69,Coman,Juventus,0,0,0,0,0,0,0,0,0
-70,Llorente,Juventus,0,0,0,0,0,0,0,0,6
+70,Llorente,Juventus,0,0,0,0,0,0,1,0,6
 71,Barzagli,Juventus,0,0,0,0,0,0,0,0,11
 72,Padoin,Juventus,0,0,0,0,0,0,0,0,0
 73,Sturaro,Juventus,0,0,0,0,0,0,0,0,0
-74,Pereyra,Juventus,0,0,0,0,0,0,0,0,1
+74,Pereyra,Juventus,0,0,0,0,1,0,0,0,1
 75,Massimiliano Allegri,Juventus(COACH),0,0,0,0,0,0,0,0,0
 76,"Neuer
  (GK)",Bayern,0,0,0,0,0,0,0,0,90
-77,Xabi Alonso,Bayern,0,0,0,0,0,0,0,0,90
-78,Benatia,Bayern,1,0,0,0,0,0,0,0,90
-79,Thiago Alcántara,Bayern,0,0,0,0,0,0,0,0,90
-80,Lewandowski,Bayern,1,0,0,0,0,0,0,0,90
-81,Rafinha,Bayern,0,0,0,0,0,0,0,0,90
-82,Boateng,Bayern,0,0,0,0,0,0,0,0,90
-83,Bernat,Bayern,0,0,0,0,0,0,0,0,90
-84,Lahm,Bayern,0,0,0,0,0,0,0,0,68
-85,Müller,Bayern,1,0,0,0,0,0,0,0,87
-86,Schweinsteiger,Bayern,0,0,0,2,0,0,0,0,87
+77,Xabi Alonso,Bayern,0,0,0,0,1,6,3,0,90
+78,Benatia,Bayern,1,4,1,0,8,0,3,0,90
+79,Thiago Alcántara,Bayern,0,2,0,0,2,1,2,0,90
+80,Lewandowski,Bayern,1,5,3,0,0,2,2,0,90
+81,Rafinha,Bayern,0,0,0,0,3,2,5,0,90
+82,Boateng,Bayern,0,0,0,0,1,0,1,0,90
+83,Bernat,Bayern,0,1,0,0,1,2,0,1,90
+84,Lahm,Bayern,0,0,0,0,0,3,0,0,68
+85,Müller,Bayern,1,5,3,0,2,1,1,0,87
+86,Schweinsteiger,Bayern,0,2,1,2,3,1,1,1,87
 87,"Reina
  (GK)",Bayern,0,0,0,0,0,0,0,0,0
 88,Dante,Bayern,0,0,0,0,0,0,0,0,0
 89,Javi Martínez,Bayern,0,0,0,0,0,0,0,0,3
 90,Pizarro,Bayern,0,0,0,1,0,0,0,0,0
-91,Götze,Bayern,0,0,0,0,0,0,0,0,3
-92,Rode,Bayern,0,0,0,0,0,0,0,0,22
+91,Götze,Bayern,0,0,0,0,1,0,0,1,3
+92,Rode,Bayern,0,0,0,0,1,2,1,0,22
 93,Weiser,Bayern,0,0,0,0,0,0,0,0,0
 94,Josep Guardiola,Bayern(COACH),0,0,0,0,0,0,0,0,0
 95,"Ter Stegen
  (GK)",Barcelona,0,0,0,0,0,0,0,0,90
-96,Piqué,Barcelona,0,0,0,0,0,0,0,0,90
-97,Rakitić,Barcelona,0,0,0,0,0,0,0,0,72
-98,Sergio Busquets,Barcelona,0,0,0,0,0,0,0,0,90
+96,Piqué,Barcelona,0,0,0,0,2,0,1,0,90
+97,Rakitić,Barcelona,0,1,1,0,1,0,1,0,72
+98,Sergio Busquets,Barcelona,0,0,0,0,7,0,1,0,90
 99,Iniesta,Barcelona,0,0,0,0,0,0,0,0,75
-100,Luis Suárez,Barcelona,0,0,0,2,0,0,0,0,46
-101,Messi,Barcelona,0,0,0,0,0,0,0,0,90
-102,Neymar,Barcelona,2,0,0,0,0,0,0,0,90
-103,Mascherano,Barcelona,0,0,0,0,0,0,0,0,90
-104,Jordi Alba,Barcelona,0,0,0,0,0,0,0,0,90
-105,Dani Alves,Barcelona,0,0,0,0,0,0,0,0,90
+100,Luis Suárez,Barcelona,0,0,0,2,0,0,0,1,46
+101,Messi,Barcelona,0,2,1,0,0,1,0,1,90
+102,Neymar,Barcelona,2,2,2,0,1,1,1,1,90
+103,Mascherano,Barcelona,0,0,0,0,2,0,2,0,90
+104,Jordi Alba,Barcelona,0,0,0,0,4,0,0,0,90
+105,Dani Alves,Barcelona,0,0,0,0,3,1,3,0,90
 106,"Bravo
  (GK)",Barcelona,0,0,0,0,0,0,0,0,0
 107,Xavi Hernández,Barcelona,0,0,0,0,0,0,0,0,15
-108,Pedro Rodríguez,Barcelona,0,0,0,0,0,0,0,0,44
+108,Pedro Rodríguez,Barcelona,0,0,0,0,1,0,3,0,44
 109,Rafinha,Bayern,0,0,0,0,0,0,0,0,0
 110,Bartra,Barcelona,0,0,0,0,0,0,0,0,0
 111,Adriano,Barcelona,0,0,0,0,0,0,0,0,0
-112,Mathieu,Barcelona,0,0,0,0,0,0,0,0,18
+112,Mathieu,Barcelona,0,0,0,0,1,0,0,0,18
 113,Luis Enrique,Barcelona(COACH),0,0,0,0,0,0,0,0,0
 114,"Ter Stegen
  (GK)",Barcelona,0,0,0,0,0,0,0,0,90
 115,Piqué,Barcelona,0,0,0,0,0,0,0,0,90
-116,Rakitić,Barcelona,0,0,0,1,0,0,0,0,82
+116,Rakitić,Barcelona,0,1,0,1,0,0,0,0,82
 117,Sergio Busquets,Barcelona,0,0,0,0,0,0,0,0,90
 118,Iniesta,Barcelona,0,0,0,0,0,0,0,0,87
-119,Luis Suárez,Barcelona,0,0,0,0,0,0,0,0,90
-120,Messi,Barcelona,2,0,0,1,0,0,0,0,90
-121,Neymar,Barcelona,1,0,0,0,0,0,0,0,90
+119,Luis Suárez,Barcelona,0,6,2,0,0,0,0,0,90
+120,Messi,Barcelona,2,4,4,1,0,0,0,0,90
+121,Neymar,Barcelona,1,3,1,0,0,0,0,0,90
 122,Mascherano,Barcelona,0,0,0,0,0,0,0,0,89
 123,Jordi Alba,Barcelona,0,0,0,0,0,0,0,0,90
-124,Dani Alves,Barcelona,0,0,0,1,0,0,0,0,90
+124,Dani Alves,Barcelona,0,1,1,1,0,0,0,0,90
 125,"Bravo
  (GK)",Barcelona,0,0,0,0,0,0,0,0,0
 126,Xavi Hernández,Barcelona,0,0,0,0,0,0,0,0,8
@@ -148,16 +148,16 @@
 132,Luis Enrique,Barcelona(COACH),0,0,0,0,0,0,0,0,0
 133,"Neuer
  (GK)",Bayern,0,0,0,0,0,0,0,0,90
-134,Xabi Alonso,Bayern,0,0,0,0,0,0,0,0,90
+134,Xabi Alonso,Bayern,0,1,0,0,0,0,0,0,90
 135,Benatia,Bayern,0,0,0,0,0,0,0,0,90
-136,Thiago Alcántara,Bayern,0,0,0,0,0,0,0,0,90
-137,Lewandowski,Bayern,0,0,0,0,0,0,0,0,90
+136,Thiago Alcántara,Bayern,0,2,0,0,0,0,0,0,90
+137,Lewandowski,Bayern,0,3,0,0,0,0,0,0,90
 138,Rafinha,Barcelona,0,0,0,0,0,0,0,0,90
 139,Boateng,Bayern,0,0,0,0,0,0,0,0,90
 140,Bernat,Bayern,0,0,0,0,0,0,0,0,90
 141,Lahm,Bayern,0,0,0,0,0,0,0,0,90
 142,Müller,Bayern,0,0,0,0,0,0,0,0,79
-143,Schweinsteiger,Bayern,0,0,0,0,0,0,0,0,90
+143,Schweinsteiger,Bayern,0,2,0,0,0,0,0,0,90
 144,"Reina
  (GK)",Bayern,0,0,0,0,0,0,0,0,0
 145,Dante,Bayern,0,0,0,0,0,0,0,0,0
@@ -169,41 +169,41 @@
 151,Josep Guardiola,Bayern(COACH),0,0,0,0,0,0,0,0,0
 152,"Buffon
  (GK)",Juventus,0,0,0,0,0,0,0,0,90
-153,Chiellini,Juventus,0,0,0,0,0,0,0,0,90
-154,Marchisio,Juventus,0,0,0,0,0,0,0,0,90
-155,Morata,Juventus,1,0,0,0,0,0,0,0,78
-156,Tévez,Juventus,1,0,0,1,0,0,0,0,86
-157,Bonucci,Juventus,0,0,0,0,0,0,0,0,90
-158,Pirlo,Juventus,0,0,0,0,0,0,0,0,90
-159,Vidal,Juventus,0,0,0,0,0,0,0,0,90
-160,Lichtsteiner,Juventus,0,0,0,0,0,0,0,0,90
-161,Sturaro,Juventus,0,0,0,0,0,0,0,0,64
-162,Evra,Juventus,0,0,0,0,0,0,0,0,90
+153,Chiellini,Juventus,0,0,0,0,3,0,2,0,90
+154,Marchisio,Juventus,0,1,0,0,0,0,3,0,90
+155,Morata,Juventus,1,2,2,0,1,0,1,0,78
+156,Tévez,Juventus,1,5,3,1,0,0,1,1,86
+157,Bonucci,Juventus,0,0,0,0,4,0,3,0,90
+158,Pirlo,Juventus,0,0,0,0,1,2,1,0,90
+159,Vidal,Juventus,0,0,0,0,3,0,3,1,90
+160,Lichtsteiner,Juventus,0,1,0,0,1,3,3,0,90
+161,Sturaro,Juventus,0,2,1,0,0,0,2,1,64
+162,Evra,Juventus,0,0,0,0,1,2,1,0,90
 163,"Storari
  (GK)",Juventus,0,0,0,0,0,0,0,0,0
 164,Pepe,Juventus,0,0,0,0,0,0,0,0,0
-165,Llorente,Juventus,0,0,0,0,0,0,0,0,12
+165,Llorente,Juventus,0,1,1,0,0,0,0,0,12
 166,Barzagli,Juventus,0,0,0,0,0,0,0,0,26
 167,Padoin,Juventus,0,0,0,0,0,0,0,0,0
 168,Matri,Juventus,0,0,0,0,0,0,0,0,0
-169,Pereyra,Juventus,0,0,0,0,0,0,0,0,4
+169,Pereyra,Juventus,0,0,0,0,0,0,1,0,4
 170,Massimiliano Allegri,Juventus(COACH),0,0,0,0,0,0,0,0,0
 171,"Casillas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,90
-172,Varane,Real Madrid,0,0,0,0,0,0,0,0,90
+172,Varane,Real Madrid,0,1,0,0,2,1,0,0,90
 173,Pepe,Juventus,0,0,0,0,0,0,0,0,90
-174,Ramos,Real Madrid,0,0,0,0,0,0,0,0,90
-175,Ronaldo,Real Madrid,1,0,0,0,0,0,0,0,90
-176,Kroos,Real Madrid,0,0,0,0,0,0,0,0,90
-177,James Rodríguez,Real Madrid,0,0,0,1,0,0,0,0,90
-178,Bale,Real Madrid,0,0,0,0,0,0,0,0,86
-179,Marcelo,Real Madrid,0,0,0,0,0,0,0,0,90
-180,Carvajal,Real Madrid,0,0,0,0,0,0,0,0,90
-181,Isco,Real Madrid,0,0,0,0,0,0,0,0,63
+174,Ramos,Real Madrid,0,0,0,0,3,1,4,0,90
+175,Ronaldo,Real Madrid,1,3,1,0,0,1,1,0,90
+176,Kroos,Real Madrid,0,3,1,0,1,6,1,0,90
+177,James Rodríguez,Real Madrid,0,1,1,1,0,6,1,0,90
+178,Bale,Real Madrid,0,1,0,0,1,3,0,0,86
+179,Marcelo,Real Madrid,0,2,0,0,0,5,1,0,90
+180,Carvajal,Real Madrid,0,0,0,0,2,2,3,0,90
+181,Isco,Real Madrid,0,1,1,0,0,3,2,0,63
 182,"Navas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,0
 183,Fábio Coentrão,Real Madrid,0,0,0,0,0,0,0,0,0
-184,Hernández,Real Madrid,0,0,0,0,0,0,0,0,27
+184,Hernández,Real Madrid,0,1,0,0,0,1,0,1,27
 185,Lucas Silva,Real Madrid,0,0,0,0,0,0,0,0,0
 186,Arbeloa,Real Madrid,0,0,0,0,0,0,0,0,0
 187,Jesé,Real Madrid,0,0,0,0,0,0,0,0,4
@@ -211,62 +211,62 @@
 189,Carlo Ancelotti,Real Madrid(COACH),0,0,0,0,0,0,0,0,0
 190,"Casillas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,90
-191,Varane,Real Madrid,0,0,0,0,0,0,0,0,90
-192,Pepe,Real Madrid,0,0,0,0,0,0,0,0,90
-193,Ramos,Real Madrid,0,0,0,0,0,0,0,0,90
-194,Fábio Coentrão,Real Madrid,0,0,0,0,0,0,0,0,90
-195,Ronaldo,Real Madrid,0,0,0,1,0,0,0,0,90
-196,Kroos,Real Madrid,0,0,0,0,0,0,0,0,90
-197,James Rodríguez,Real Madrid,0,0,0,0,0,0,0,0,90
-198,Hernández,Real Madrid,1,0,0,0,0,0,0,0,90
-199,Carvajal,Real Madrid,0,0,0,0,0,0,0,0,90
-200,Isco,Real Madrid,0,0,0,0,0,0,0,0,90
+191,Varane,Real Madrid,0,2,1,0,1,0,2,0,90
+192,Pepe,Real Madrid,0,1,0,0,2,1,0,0,90
+193,Ramos,Real Madrid,0,1,1,0,1,2,4,0,90
+194,Fábio Coentrão,Real Madrid,0,0,0,0,1,2,2,0,90
+195,Ronaldo,Real Madrid,0,6,3,1,1,4,2,0,90
+196,Kroos,Real Madrid,0,2,0,0,0,3,0,0,90
+197,James Rodríguez,Real Madrid,0,2,1,0,0,8,1,0,90
+198,Hernández,Real Madrid,1,7,2,0,0,1,1,0,90
+199,Carvajal,Real Madrid,0,0,0,0,4,2,1,0,90
+200,Isco,Real Madrid,0,2,0,0,2,3,0,0,90
 201,"Navas
  (GK)",Real Madrid,0,0,0,0,0,0,0,0,0
 202,Khedira,Real Madrid,0,0,0,0,0,0,0,0,0
 203,Lucas Silva,Real Madrid,0,0,0,0,0,0,0,0,0
-204,Arbeloa,Real Madrid,0,0,0,0,0,0,0,0,2
+204,Arbeloa,Real Madrid,0,0,0,0,0,0,1,0,2
 205,Nacho,Real Madrid,0,0,0,0,0,0,0,0,0
-206,Jesé,Real Madrid,0,0,0,0,0,0,0,0,3
+206,Jesé,Real Madrid,0,0,0,0,0,0,1,0,3
 207,Illarramendi,Real Madrid,0,0,0,0,0,0,0,0,0
 208,Carlo Ancelotti,Real Madrid(COACH),0,0,0,0,0,0,0,0,0
 209,"Oblak
  (GK)",Atlético,0,0,0,0,0,0,0,0,90
-210,Godín,Atlético,0,0,0,0,0,0,0,0,90
-211,Tiago,Atlético,0,0,0,0,0,0,0,0,86
-212,Koke,Atlético,0,0,0,0,0,0,0,0,90
-213,Griezmann,Atlético,0,0,0,0,0,0,0,0,65
-214,Mandžukić,Atlético,0,0,0,0,0,0,0,0,90
-215,Arda Turan,Atlético,0,0,0,0,0,0,0,0,90
-216,Saúl Ñíguez,Atlético,0,0,0,0,0,0,0,0,46
-217,Gámez,Atlético,0,0,0,0,0,0,0,0,90
-218,Juanfran,Atlético,0,0,0,0,0,0,0,0,90
-219,Miranda,Atlético,0,0,0,0,0,0,0,0,90
+210,Godín,Atlético,0,0,0,0,1,0,0,0,90
+211,Tiago,Atlético,0,1,0,0,1,1,2,0,86
+212,Koke,Atlético,0,2,1,0,0,5,1,0,90
+213,Griezmann,Atlético,0,0,0,0,0,2,0,0,65
+214,Mandžukić,Atlético,0,0,0,0,1,0,1,0,90
+215,Arda Turan,Atlético,0,0,0,0,0,1,3,0,90
+216,Saúl Ñíguez,Atlético,0,0,0,0,1,0,1,0,46
+217,Gámez,Atlético,0,1,1,0,0,3,2,0,90
+218,Juanfran,Atlético,0,0,0,0,0,1,0,0,90
+219,Miranda,Atlético,0,0,0,0,0,0,1,0,90
 220,"Moyà
  (GK)",Atlético,0,0,0,0,0,0,0,0,0
 221,Siqueira,Atlético,0,0,0,0,0,0,0,0,0
-222,Raúl García,Atlético,0,0,0,0,0,0,0,0,25
+222,Raúl García,Atlético,0,1,0,0,0,1,1,0,25
 223,Jiménez,Atlético,0,0,0,0,0,0,0,0,0
-224,Gabi,Atlético,0,0,0,0,0,0,0,0,44
+224,Gabi,Atlético,0,1,0,0,1,0,0,0,44
 225,Torres,Atlético,0,0,0,0,0,0,0,0,0
 226,Giménez,Atlético,0,0,0,0,0,0,0,0,4
 227,Diego Simeone,Atlético(COACH),0,0,0,0,0,0,0,0,0
 228,"Subašić
  (GK)",Monaco,0,0,0,0,0,0,0,0,90
-229,Fabinho,Monaco,0,0,0,0,0,0,0,0,90
-230,Kurzawa,Monaco,0,0,0,0,0,0,0,0,90
-231,Abdennour,Monaco,0,0,0,0,0,0,0,0,90
-232,João Moutinho,Monaco,0,0,0,0,0,0,0,0,90
-233,Bernardo Silva,Monaco,0,0,0,0,0,0,0,0,90
-234,Carrasco,Monaco,0,0,0,0,0,0,0,0,87
-235,Kondogbia,Monaco,0,0,0,0,0,0,0,0,90
-236,Martial,Monaco,0,0,0,0,0,0,0,0,76
-237,Raggi,Monaco,0,0,0,0,0,0,0,0,90
-238,Toulalan,Monaco,0,0,0,0,0,0,0,0,46
+229,Fabinho,Monaco,0,2,0,0,4,6,3,0,90
+230,Kurzawa,Monaco,0,2,0,0,7,6,1,0,90
+231,Abdennour,Monaco,0,0,0,0,2,0,1,0,90
+232,João Moutinho,Monaco,0,2,0,0,3,5,2,0,90
+233,Bernardo Silva,Monaco,0,2,0,0,1,4,1,0,90
+234,Carrasco,Monaco,0,1,0,0,1,12,1,1,87
+235,Kondogbia,Monaco,0,3,1,0,4,0,2,0,90
+236,Martial,Monaco,0,0,0,0,0,0,2,0,76
+237,Raggi,Monaco,0,0,0,0,4,0,0,0,90
+238,Toulalan,Monaco,0,0,0,0,1,0,0,0,46
 239,"Stekelenburg
  (GK)",Monaco,0,0,0,0,0,0,0,0,0
 240,Dirar,Monaco,0,0,0,0,0,0,0,0,0
-241,Berbatov,Monaco,0,0,0,0,0,0,0,0,44
+241,Berbatov,Monaco,0,0,0,0,0,0,1,1,44
 242,Matheus Carvalho,Monaco,0,0,0,0,0,0,0,0,3
 243,Wallace,Monaco,0,0,0,0,0,0,0,0,0
 244,Germain,Monaco,0,0,0,0,0,0,0,0,14
@@ -274,20 +274,20 @@
 246,Leonardo Jardim,Monaco(COACH),0,0,0,0,0,0,0,0,0
 247,"Buffon
  (GK)",Juventus,0,0,0,0,0,0,0,0,90
-248,Chiellini,Juventus,0,0,0,0,0,0,0,0,90
-249,Marchisio,Juventus,0,0,0,0,0,0,0,0,90
-250,Morata,Juventus,0,0,0,0,0,0,0,0,69
-251,Tévez,Juventus,0,0,0,0,0,0,0,0,90
-252,Barzagli,Juventus,0,0,0,0,0,0,0,0,90
-253,Bonucci,Juventus,0,0,0,0,0,0,0,0,90
-254,Pirlo,Juventus,0,0,0,0,0,0,0,0,90
-255,Vidal,Juventus,0,0,0,0,0,0,0,0,77
-256,Lichtsteiner,Juventus,0,0,0,0,0,0,0,0,90
-257,Evra,Juventus,0,0,0,0,0,0,0,0,89
+248,Chiellini,Juventus,0,0,0,0,5,0,1,0,90
+249,Marchisio,Juventus,0,1,0,0,1,0,2,0,90
+250,Morata,Juventus,0,0,0,0,0,0,2,1,69
+251,Tévez,Juventus,0,3,1,0,1,0,0,0,90
+252,Barzagli,Juventus,0,0,0,0,4,0,0,0,90
+253,Bonucci,Juventus,0,0,0,0,3,0,0,0,90
+254,Pirlo,Juventus,0,1,0,0,1,2,3,0,90
+255,Vidal,Juventus,0,0,0,0,2,0,3,0,77
+256,Lichtsteiner,Juventus,0,0,0,0,0,3,2,0,90
+257,Evra,Juventus,0,0,0,0,1,0,1,0,89
 258,"Storari
  (GK)",Juventus,0,0,0,0,0,0,0,0,0
 259,Ogbonna,Juventus,0,0,0,0,0,0,0,0,0
-260,Llorente,Juventus,0,0,0,0,0,0,0,0,21
+260,Llorente,Juventus,0,0,0,0,0,0,3,0,21
 261,Padoin,Juventus,0,0,0,0,0,0,0,0,1
 262,Sturaro,Juventus,0,0,0,0,0,0,0,0,0
 263,Matri,Juventus,0,0,0,0,0,0,0,0,0
@@ -295,19 +295,19 @@
 265,Massimiliano Allegri,Juventus(COACH),0,0,0,0,0,0,0,0,0
 266,"Ter Stegen
  (GK)",Barcelona,0,0,0,0,0,0,0,0,90
-267,Piqué,Barcelona,0,0,0,0,0,0,0,0,90
-268,Rakitić,Barcelona,0,0,0,0,0,0,0,0,90
-269,Sergio Busquets,Barcelona,0,0,0,0,0,0,0,0,55
-270,Iniesta,Barcelona,0,0,0,1,0,0,0,0,46
-271,Luis Suárez,Barcelona,0,0,0,0,0,0,0,0,75
-272,Messi,Barcelona,0,0,0,0,0,0,0,0,90
-273,Neymar,Barcelona,2,0,0,0,0,0,0,0,90
-274,Mascherano,Barcelona,0,0,0,0,0,0,0,0,90
-275,Jordi Alba,Barcelona,0,0,0,0,0,0,0,0,90
-276,Dani Alves,Barcelona,0,0,0,1,0,0,0,0,90
+267,Piqué,Barcelona,0,1,0,0,3,0,0,0,90
+268,Rakitić,Barcelona,0,1,1,0,2,3,0,0,90
+269,Sergio Busquets,Barcelona,0,0,0,0,1,0,1,0,55
+270,Iniesta,Barcelona,0,0,0,1,1,0,3,0,46
+271,Luis Suárez,Barcelona,0,0,0,0,0,3,1,1,75
+272,Messi,Barcelona,0,4,1,0,1,0,1,0,90
+273,Neymar,Barcelona,2,3,3,0,1,4,2,0,90
+274,Mascherano,Barcelona,0,0,0,0,2,0,0,0,90
+275,Jordi Alba,Barcelona,0,0,0,0,2,0,0,0,90
+276,Dani Alves,Barcelona,0,2,1,1,3,5,3,0,90
 277,"Bravo
  (GK)",Barcelona,0,0,0,0,0,0,0,0,0
-278,Xavi Hernández,Barcelona,0,0,0,0,0,0,0,0,44
+278,Xavi Hernández,Barcelona,0,0,0,0,1,1,0,0,44
 279,Pedro Rodríguez,Barcelona,0,0,0,0,0,0,0,0,15
 280,Rafinha,Barcelona,0,0,0,0,0,0,0,0,0
 281,Bartra,Barcelona,0,0,0,0,0,0,0,0,0
@@ -316,65 +316,65 @@
 284,Luis Enrique,Barcelona(COACH),0,0,0,0,0,0,0,0,0
 285,"Sirigu
  (GK)",Paris,0,0,0,0,0,0,0,0,90
-286,Cabaye,Paris,0,0,0,0,0,0,0,0,66
-287,Marquinhos,Paris,0,0,0,0,0,0,0,0,90
-288,Cavani,Paris,0,0,0,0,0,0,0,0,80
-289,Ibrahimović,Paris,0,0,0,0,0,0,0,0,90
-290,Matuidi,Paris,0,0,0,0,0,0,0,0,80
-291,Maxwell,Paris,0,0,0,0,0,0,0,0,90
-292,Van der Wiel,Paris,0,0,0,0,0,0,0,0,90
-293,Verratti,Paris,0,0,0,0,0,0,0,0,90
-294,Pastore,Paris,0,0,0,0,0,0,0,0,90
-295,David Luiz,Paris,0,0,0,0,0,0,0,0,90
+286,Cabaye,Paris,0,2,0,0,1,0,2,0,66
+287,Marquinhos,Paris,0,0,0,0,7,0,0,0,90
+288,Cavani,Paris,0,1,0,0,3,0,1,0,80
+289,Ibrahimović,Paris,0,1,1,0,1,1,0,1,90
+290,Matuidi,Paris,0,1,0,0,3,3,2,1,80
+291,Maxwell,Paris,0,0,0,0,3,5,1,1,90
+292,Van der Wiel,Paris,0,0,0,0,1,1,2,0,90
+293,Verratti,Paris,0,1,0,0,3,0,4,0,90
+294,Pastore,Paris,0,1,0,0,2,0,2,0,90
+295,David Luiz,Paris,0,0,0,0,4,0,2,0,90
 296,"Douchez
  (GK)",Paris,0,0,0,0,0,0,0,0,0
 297,Camara,Paris,0,0,0,0,0,0,0,0,0
-298,Moura,Paris,0,0,0,0,0,0,0,0,24
+298,Moura,Paris,0,1,0,0,0,0,0,0,24
 299,Bahebeck,Paris,0,0,0,0,0,0,0,0,0
 300,Digne,Paris,0,0,0,0,0,0,0,0,0
-301,Lavezzi,Paris,0,0,0,0,0,0,0,0,10
-302,Rabiot,Paris,0,0,0,0,0,0,0,0,10
+301,Lavezzi,Paris,0,1,1,0,0,1,0,0,10
+302,Rabiot,Paris,0,0,0,0,3,0,0,0,10
 303,Laurent Blanc,Paris(COACH),0,0,0,0,0,0,0,0,0
 304,"Neuer
  (GK)",Bayern,0,0,0,0,0,0,0,0,90
-305,Xabi Alonso,Bayern,1,0,0,0,0,0,0,0,90
-306,Thiago Alcántara,Bayern,1,0,0,1,0,0,0,0,90
-307,Lewandowski,Bayern,2,0,0,0,0,0,0,0,90
-308,Rafinha,Bayern,0,0,0,0,0,0,0,0,72
-309,Boateng,Bayern,1,0,0,0,0,0,0,0,90
-310,Bernat,Bayern,0,0,0,1,0,0,0,0,90
-311,Götze,Bayern,0,0,0,0,0,0,0,0,86
-312,Lahm,Bayern,0,0,0,0,0,0,0,0,90
-313,Müller,Bayern,1,0,0,2,0,0,0,0,90
-314,Badstuber,Bayern,0,0,0,1,0,0,0,0,90
+305,Xabi Alonso,Bayern,1,2,1,0,0,2,1,0,90
+306,Thiago Alcántara,Bayern,1,1,1,1,3,1,3,0,90
+307,Lewandowski,Bayern,2,8,3,0,1,0,3,0,90
+308,Rafinha,Bayern,0,0,0,0,0,1,2,0,72
+309,Boateng,Bayern,1,1,1,0,4,0,1,0,90
+310,Bernat,Bayern,0,1,0,1,3,2,0,0,90
+311,Götze,Bayern,0,1,0,0,0,1,5,0,86
+312,Lahm,Bayern,0,1,1,0,0,5,0,0,90
+313,Müller,Bayern,1,4,3,2,1,5,2,0,90
+314,Badstuber,Bayern,0,1,0,1,1,2,2,0,90
 315,"Reina
  (GK)",Bayern,0,0,0,0,0,0,0,0,0
 316,Dante,Bayern,0,0,0,0,0,0,0,0,0
 317,Pizarro,Bayern,0,0,0,0,0,0,0,0,0
 318,Gaudino,Bayern,0,0,0,0,0,0,0,0,0
-319,Rode,Bayern,0,0,0,0,0,0,0,0,18
-320,Weiser,Bayern,0,0,0,0,0,0,0,0,4
+319,Rode,Bayern,0,1,0,0,1,0,0,0,18
+320,Weiser,Bayern,0,0,0,0,2,0,0,0,4
 321,Schweinsteiger,Bayern,0,0,0,0,0,0,0,0,0
 322,Josep Guardiola,Bayern(COACH),0,0,0,0,0,0,0,0,0
 323,"Fabiano
  (GK)",Porto,0,0,0,0,0,0,0,0,90
-324,Martins Indi,Porto,0,0,0,0,0,0,0,0,90
-325,Maicon,Porto,0,0,0,0,0,0,0,0,90
-326,Marcano,Porto,0,0,0,0,0,0,0,0,90
-327,Casemiro,Porto,0,0,0,0,0,0,0,0,90
-328,Quaresma,Porto,0,0,0,0,0,0,0,0,46
-329,Brahimi,Porto,0,0,0,0,0,0,0,0,67
-330,Martínez,Porto,1,0,0,0,0,0,0,0,90
-331,Reyes,Porto,0,0,0,0,0,0,0,0,33
-332,Herrera,Porto,0,0,0,0,0,0,0,0,90
-333,Óliver Torres,Porto,0,0,0,0,0,0,0,0,90
+324,Martins Indi,Porto,0,0,0,0,1,0,0,0,90
+325,Maicon,Porto,0,0,0,0,0,1,0,0,90
+326,Marcano,Porto,0,0,0,0,8,0,3,0,90
+327,Casemiro,Porto,0,1,0,0,3,0,2,0,90
+328,Quaresma,Porto,0,0,0,0,1,2,1,0,46
+329,Brahimi,Porto,0,0,0,0,0,1,0,0,67
+330,Martínez,Porto,1,2,1,0,0,2,3,1,90
+331,Reyes,Porto,0,0,0,0,0,0,2,0,33
+332,Herrera,Porto,0,0,0,0,1,2,4,0,90
+333,Óliver Torres,Porto,0,0,0,0,2,0,0,0,90
 334,"Helton
  (GK)",Porto,0,0,0,0,0,0,0,0,0
 335,Quintero,Porto,0,0,0,0,0,0,0,0,0
 336,Evandro,Porto,0,0,0,1,0,0,0,0,23
 337,Hernâni,Porto,0,0,0,0,0,0,0,0,0
-338,Ricardo,Porto,0,0,0,0,0,0,0,0,57
-339,Rúben Neves,Porto,0,0,0,0,0,0,0,0,44
+338,Ricardo,Porto,0,0,0,0,4,3,3,0,57
+339,Rúben Neves,Porto,0,0,0,0,0,0,1,0,44
 340,Aboubakar,Porto,0,0,0,0,0,0,0,0,0
 341,Julen Lopetegui,Porto(COACH),0,0,0,0,0,0,0,0,0
 342,"Fabiano
