@@ -1,0 +1,553 @@
+,Players,Teams,Goals scored,Total shots,Shots on Target,Assists,Interceptions,Crosses,Fouls committed,Offsides,Time Played
+0,"Oblak
+
+ (GK)",Atl�tico,0,0,0,0,0,0,0,0,90
+1,Thomas,Atl�tico,0,3,0,0,1,0,0,0,90
+2,Koke,Atl�tico,0,0,0,0,1,2,2,0,90
+3,Saúl Ñíguez,Atl�tico,1,1,1,0,2,0,2,0,90
+4,Morata,Atl�tico,0,1,1,0,0,0,2,2,70
+5,Correa,Atl�tico,0,0,0,0,2,2,1,1,77
+6,Lemar,Atl�tico,0,0,0,0,2,0,0,1,46
+7,Renan Lodi,Atl�tico,0,1,0,0,2,2,0,1,90
+8,Savić,Atl�tico,0,0,0,0,0,0,0,0,90
+9,Felipe,Atl�tico,0,0,0,0,1,0,0,0,90
+10,Vrsaljko,Atl�tico,0,0,0,0,1,3,1,0,90
+11,"Adán
+
+ (GK)",Atl�tico,0,0,0,0,0,0,0,0,0
+12,Giménez,Atl�tico,0,0,0,0,0,0,0,0,0
+13,Llorente,Atl�tico,0,0,0,0,0,0,0,0,44
+14,Diego Costa,Atl�tico,0,1,0,0,0,0,1,0,13
+15,Vitolo,Atl�tico,0,0,0,0,1,0,2,0,20
+16,Carrasco,Atl�tico,0,0,0,0,0,0,0,0,0
+17,Hermoso,Atl�tico,0,0,0,0,0,0,0,0,0
+18,Diego Simeone,Atl�tico (COACH),0,0,0,0,0,0,0,0,0
+19,"Alisson Becker
+
+ (GK)",Liverpool,0,0,0,0,0,0,0,0,90
+20,Fabinho,Liverpool,0,2,0,0,1,1,2,0,90
+21,Van Dijk,Liverpool,0,0,0,0,0,0,0,0,90
+22,Wijnaldum,Liverpool,0,0,0,0,3,1,1,0,90
+23,Firmino,Liverpool,0,0,0,0,0,2,1,1,90
+24,Mané,Liverpool,0,0,0,0,0,1,2,0,46
+25,Salah,Liverpool,0,2,0,0,0,0,1,0,72
+26,Gomez,Liverpool,0,0,0,0,2,1,4,0,90
+27,Henderson,Liverpool,0,1,0,0,0,1,1,0,80
+28,Robertson,Liverpool,0,1,0,0,2,5,0,0,90
+29,Alexander-Arnold,Liverpool,0,0,0,0,2,17,0,0,90
+30,"Adrián
+
+ (GK)",Liverpool,0,0,0,0,0,0,0,0,0
+31,Milner,Liverpool,0,0,0,0,0,1,1,0,10
+32,Keïta,Liverpool,0,0,0,0,0,0,0,0,0
+33,Oxlade-Chamberlain,Liverpool,0,1,0,0,0,1,0,0,18
+34,Minamino,Liverpool,0,0,0,0,0,0,0,0,0
+35,Origi,Liverpool,0,0,0,0,0,2,0,0,44
+36,Matip,Liverpool,0,0,0,0,0,0,0,0,0
+37,Jürgen Klopp,Liverpool(COACH),0,0,0,0,0,0,0,0,0
+38,"Bürki
+
+ (GK)",Dortmund,0,0,0,0,0,0,0,0,90
+39,Zagadou,Dortmund,0,0,0,0,0,0,0,0,90
+40,Hakimi,Dortmund,0,3,0,0,3,2,0,0,90
+41,Sancho,Dortmund,0,2,1,0,1,4,1,1,90
+42,Guerreiro,Dortmund,0,2,0,0,0,1,1,0,90
+43,Hummels,Dortmund,0,0,0,0,2,0,1,1,90
+44,Haaland,Dortmund,2,4,2,0,1,0,3,0,90
+45,T. Hazard,Dortmund,0,0,0,0,0,2,0,0,67
+46,Piszczek,Dortmund,0,0,0,0,2,1,0,0,90
+47,Emre Can,Dortmund,0,0,0,0,0,0,3,0,90
+48,Witsel,Dortmund,0,1,0,0,1,0,3,0,90
+49,"Hitz
+
+ (GK)",Dortmund,0,0,0,0,0,0,0,0,0
+50,Dahoud,Dortmund,0,0,0,0,0,0,0,0,0
+51,Götze,Dortmund,0,0,0,0,0,0,0,0,0
+52,Schulz,Dortmund,0,0,0,0,0,0,0,0,0
+53,Akanji,Dortmund,0,0,0,0,0,0,0,0,0
+54,Schmelzer,Dortmund,0,0,0,0,0,0,0,0,0
+55,Reyna,Dortmund,0,0,0,1,0,0,1,0,23
+56,Lucien Favre,Dortmund(COACH),0,0,0,0,0,0,0,0,0
+57,"Navas
+
+ (GK)",Paris,0,0,0,0,1,0,0,0,90
+58,Thiago Silva,Paris,0,1,0,0,3,0,0,0,90
+59,Kimpembe,Paris,0,0,0,0,1,0,0,0,90
+60,Marquinhos,Paris,0,1,0,0,0,0,1,0,90
+61,Verratti,Paris,0,0,0,0,0,0,0,0,90
+62,Mbappé,Paris,0,2,2,1,0,1,1,2,90
+63,Neymar,Paris,1,6,1,0,1,4,1,0,90
+64,Di María,Paris,0,0,0,0,0,0,0,0,77
+65,Meunier,Paris,0,0,0,0,5,1,1,0,90
+66,Kurzawa,Paris,0,0,0,0,2,0,2,1,90
+67,Gueye,Paris,0,0,0,0,1,0,5,0,90
+68,"Rico
+
+ (GK)",Paris,0,0,0,0,0,0,0,0,0
+69,Kehrer,Paris,0,0,0,0,0,0,0,0,0
+70,Cavani,Paris,0,0,0,0,0,0,0,0,0
+71,Icardi,Paris,0,0,0,0,0,0,0,0,0
+72,Sarabia,Paris,0,0,0,0,0,0,0,0,13
+73,Draxler,Paris,0,0,0,0,0,0,0,0,0
+74,Kouassi,Paris,0,0,0,0,0,0,0,0,0
+75,Thomas Tuchel,Paris(COACH),0,0,0,0,0,0,0,0,0
+76,"Gollini
+
+ (GK)",Atalanta,0,0,0,0,0,0,0,0,90
+77,Tolói,Atalanta,0,0,0,0,2,0,0,0,90
+78,Caldara,Atalanta,0,1,0,0,1,0,2,0,75
+79,Palomino,Atalanta,0,0,0,0,1,1,2,0,90
+80,Gosens,Atalanta,0,1,0,0,3,1,2,0,90
+81,Gómez,Atalanta,0,1,0,1,1,6,0,1,81
+82,Freuler,Atalanta,1,2,1,0,0,0,4,0,90
+83,De Roon,Atalanta,0,1,0,0,1,0,2,0,90
+84,Hateboer,Atalanta,2,2,2,0,2,1,1,0,90
+85,Iličić,Atalanta,1,1,1,0,1,3,2,0,90
+86,Pašalić,Atalanta,0,1,1,2,0,1,0,0,115
+87,"Sportiello
+
+ (GK)",Atalanta,0,0,0,0,0,0,0,0,0
+88,Tameze,Atalanta,0,0,0,0,0,0,0,0,15
+89,Czyborra,Atalanta,0,0,0,0,0,0,0,0,0
+90,Muriel,Atalanta,0,0,0,0,0,0,0,0,0
+91,Malinovskyi,Atalanta,0,1,0,0,0,0,1,0,9
+92,Castagne,Atalanta,0,0,0,0,0,0,0,0,0
+93,Zapata,Atalanta,0,0,0,0,0,1,3,0,15
+94,Gian Piero Gasperini,Atalanta(COACH),0,0,0,0,0,0,0,0,0
+95,"Doménech
+
+ (GK)",Valencia,0,0,0,0,0,0,0,0,90
+96,Mangala,Valencia,0,0,0,0,2,0,1,0,90
+97,Kondogbia,Valencia,0,2,0,0,3,0,0,0,90
+98,Gonçalo Guedes,Valencia,0,2,0,0,0,2,0,0,64
+99,Soler,Valencia,0,2,0,0,1,0,1,0,90
+100,Parejo,Valencia,0,0,0,0,0,10,1,0,90
+101,Diakhaby,Valencia,0,0,0,0,2,1,2,0,90
+102,Gayà,Valencia,0,3,0,0,1,1,0,1,90
+103,Wass,Valencia,0,0,0,0,1,6,1,0,90
+104,Ferrán Torres,Valencia,0,3,1,0,1,4,0,0,90
+105,Maxi Gómez,Valencia,0,4,2,0,2,0,3,1,73
+106,"Cillessen
+
+ (GK)",Valencia,0,0,0,0,0,0,0,0,0
+107,Thierry Correia,Valencia,0,0,0,0,0,0,0,0,0
+108,Jaume Costa,Valencia,0,0,0,0,0,0,0,0,0
+109,Gameiro,Valencia,0,0,0,0,0,1,0,0,17
+110,Cheryshev,Valencia,1,2,2,0,0,0,0,0,26
+111,Rubén Sobrino,Valencia,0,0,0,0,0,0,0,0,0
+112,Gutierrez,Valencia,0,0,0,0,0,0,0,0,0
+113,Albert Celades,Valencia(COACH),0,0,0,0,0,0,0,0,0
+114,"Lloris
+
+ (GK)",Tottenham,0,0,0,0,0,0,0,0,90
+115,Alderweireld,Tottenham,0,0,0,0,1,0,0,0,90
+116,Sánchez,Tottenham,0,0,0,0,3,0,1,0,90
+117,Winks,Tottenham,0,1,1,0,4,0,0,0,90
+118,Lo Celso,Tottenham,0,3,2,0,2,8,1,0,90
+119,Alli,Tottenham,0,0,0,0,1,0,0,1,64
+120,Bergwijn,Tottenham,0,3,1,0,0,0,1,0,90
+121,Aurier,Tottenham,0,0,0,0,0,4,1,0,90
+122,Moura,Tottenham,0,3,1,0,0,0,3,0,90
+123,Gedson Fernandes,Tottenham,0,1,0,0,0,3,1,0,64
+124,Davies,Tottenham,0,0,0,0,0,1,2,0,90
+125,"Gazzaniga
+
+ (GK)",Tottenham,0,0,0,0,0,0,0,0,0
+126,Vertonghen,Tottenham,0,0,0,0,0,0,0,0,0
+127,Lamela,Tottenham,0,1,1,0,0,1,1,1,26
+128,Dier,Tottenham,0,0,0,0,0,0,0,0,0
+129,Ndombélé,Tottenham,0,0,0,0,0,0,0,0,26
+130,Skipp,Tottenham,0,0,0,0,0,0,0,0,0
+131,Tanganga,Tottenham,0,0,0,0,0,0,0,0,0
+132,José Mourinho,Tottenham(COACH),0,0,0,0,0,0,0,0,0
+133,"Gulácsi
+
+ (GK)",Leipzig,0,0,0,0,0,0,0,0,90
+134,Angeliño,Leipzig,0,3,2,0,0,3,0,0,90
+135,Sabitzer,Leipzig,0,2,0,0,2,0,3,0,90
+136,Werner,Leipzig,1,3,1,0,0,3,1,2,90
+137,Klostermann,Leipzig,0,0,0,0,1,0,1,0,90
+138,Nkunku,Leipzig,0,2,0,0,0,6,2,0,74
+139,Schick,Leipzig,0,5,2,0,0,0,1,1,77
+140,Mukiele,Leipzig,0,0,0,0,0,1,1,1,90
+141,Halstenberg,Leipzig,0,0,0,0,2,1,2,0,90
+142,Ampadu,Leipzig,0,0,0,0,5,0,0,1,90
+143,Laimer,Leipzig,0,0,0,0,0,0,3,0,83
+144,"Mvogo
+
+ (GK)",Leipzig,0,0,0,0,0,0,0,0,0
+145,Haidara,Leipzig,0,0,0,0,0,0,1,0,16
+146,Y. Poulsen,Leipzig,0,0,0,0,0,0,0,0,13
+147,Forsberg,Leipzig,0,0,0,0,0,1,2,0,7
+148,Lookman,Leipzig,0,0,0,0,0,0,0,0,0
+149,Wolf,Leipzig,0,0,0,0,0,0,0,0,0
+150,Olmo,Leipzig,0,0,0,0,0,0,0,0,0
+151,Julian Nagelsmann,Leipzig(COACH),0,0,0,0,0,0,0,0,0
+152,"Caballero
+
+ (GK)",Chelsea,0,0,0,0,0,0,0,0,90
+153,Rüdiger,Chelsea,0,0,0,0,3,0,0,0,90
+154,Alonso,Chelsea,0,2,1,0,3,1,3,0,90
+155,A. Christensen,Chelsea,0,0,0,0,3,0,0,0,90
+156,Jorginho,Chelsea,0,0,0,0,1,1,1,0,90
+157,Barkley,Chelsea,0,0,0,0,0,2,1,0,61
+158,Kovačić,Chelsea,0,0,0,0,2,0,0,0,90
+159,Giroud,Chelsea,0,1,1,0,0,0,1,0,61
+160,Mount,Chelsea,0,5,1,0,1,1,1,1,90
+161,James,Chelsea,0,0,0,0,2,6,0,0,90
+162,Azpilicueta,Chelsea,0,0,0,0,1,2,0,0,73
+163,"Kepa
+
+ (GK)",Chelsea,0,0,0,0,0,0,0,0,0
+164,Abraham,Chelsea,0,0,0,0,0,0,0,1,29
+165,Willian,Chelsea,0,0,0,0,0,3,0,0,29
+166,Pedro Rodríguez,Chelsea,0,0,0,0,0,1,0,0,17
+167,Zouma,Chelsea,0,0,0,0,0,0,0,0,0
+168,Emerson,Chelsea,0,0,0,0,0,0,0,0,0
+169,Gilmour,Chelsea,0,0,0,0,0,0,0,0,0
+170,Frank Lampard,Chelsea(COACH),0,0,0,0,0,0,0,0,0
+171,"Neuer
+
+ (GK)",Bayern,0,0,0,0,0,0,0,0,90
+172,Pavard,Bayern,0,0,0,0,0,3,1,0,90
+173,Thiago Alcántara,Bayern,0,1,0,0,5,0,2,0,90
+174,Lewandowski,Bayern,1,3,3,2,0,1,2,0,90
+175,Boateng,Bayern,0,0,0,0,1,1,1,0,90
+176,Davies,Bayern,0,0,0,1,0,2,0,0,90
+177,Gnabry,Bayern,2,5,2,0,2,2,1,0,85
+178,Müller,Bayern,0,3,1,0,1,2,0,0,90
+179,Alaba,Bayern,0,1,0,0,1,0,0,0,90
+180,Coman,Bayern,0,1,0,0,0,2,0,0,66
+181,Kimmich,Bayern,0,0,0,0,3,7,3,0,90
+182,"Ulreich
+
+ (GK)",Bayern,0,0,0,0,0,0,0,0,0
+183,Odriozola,Bayern,0,0,0,0,0,0,0,0,0
+184,Coutinho,Bayern,0,2,0,0,0,0,0,0,24
+185,Goretzka,Bayern,0,1,0,0,0,0,0,0,0
+186,Hernández,Bayern,0,0,0,0,0,0,0,0,0
+187,Tolisso,Bayern,0,0,0,0,0,0,0,0,5
+188,Zirkzee,Bayern,0,0,0,0,0,0,0,0,0
+189,Hans-Dieter Flick,Bayern(COACH),0,0,0,0,0,0,0,0,0
+190,"Ospina
+
+ (GK)",Napoli,0,0,0,0,0,0,0,0,90
+191,Demme,Napoli,0,0,0,0,3,0,1,0,80
+192,Mário Rui,Napoli,0,0,0,0,1,2,1,0,90
+193,Callejón,Napoli,0,1,1,0,0,0,2,0,74
+194,Fabián Ruiz,Napoli,0,0,0,0,4,0,0,0,90
+195,Mertens,Napoli,1,2,2,0,1,0,0,0,54
+196,Maksimović,Napoli,0,0,0,0,1,0,0,0,90
+197,Zieliński,Napoli,0,0,0,1,1,0,0,0,90
+198,Di Lorenzo,Napoli,0,0,0,0,0,1,1,0,90
+199,Insigne,Napoli,0,2,1,0,4,4,0,1,90
+200,Manolas,Napoli,0,1,0,0,0,0,1,0,90
+201,"Meret
+
+ (GK)",Napoli,0,0,0,0,0,0,0,0,0
+202,Allan,Napoli,0,0,0,0,0,0,0,0,10
+203,Elmas,Napoli,0,0,0,0,0,0,0,0,0
+204,Luperto,Napoli,0,0,0,0,0,0,0,0,0
+205,Politano,Napoli,0,1,0,0,0,1,0,0,16
+206,Hysaj,Napoli,0,0,0,0,0,0,0,0,0
+207,Milik,Napoli,0,0,0,0,0,0,1,0,36
+208,Gennaro Gattuso,Napoli(COACH),0,0,0,0,0,0,0,0,0
+209,"Ter Stegen
+
+ (GK)",Barcelona,0,0,0,0,0,0,0,0,90
+210,Semedo,Barcelona,0,1,0,1,0,3,1,0,90
+211,Piqué,Barcelona,0,0,0,0,0,0,0,0,115
+212,Rakitić,Barcelona,0,1,0,0,1,1,0,1,56
+213,Sergio Busquets,Barcelona,0,0,0,0,6,0,3,0,90
+214,Messi,Barcelona,0,2,0,0,0,2,2,0,90
+215,Griezmann,Barcelona,1,1,1,0,1,3,2,1,87
+216,F. de Jong,Barcelona,0,0,0,0,2,0,0,0,90
+217,Vidal,Barcelona,0,0,0,0,1,2,2,0,90
+218,Umtiti,Barcelona,0,1,0,0,1,0,0,0,90
+219,Junior Firpo,Barcelona,0,0,0,0,1,1,1,0,90
+220,"Neto
+
+ (GK)",Barcelona,0,0,0,0,0,0,0,0,0
+221,Arthur,Barcelona,0,1,0,0,0,0,0,0,34
+222,Lenglet,Barcelona,0,0,0,0,0,0,0,0,25
+223,Ricard Puig,Barcelona,0,0,0,0,0,0,0,0,0
+224,Fati,Barcelona,0,0,0,0,1,0,0,0,3
+225,Ronald Araújo,Barcelona,0,0,0,0,0,0,0,0,0
+226,Akieme,Barcelona,0,0,0,0,0,0,0,0,0
+227,Quique Setién,Barcelona(COACH),0,0,0,0,0,0,0,0,0
+228,"Lopes
+
+ (GK)",Lyon,0,0,0,0,0,0,0,0,90
+229,Denayer,Lyon,0,0,0,0,0,0,1,0,90
+230,Marcelo,Lyon,0,1,0,0,1,0,1,0,90
+231,Aouar,Lyon,0,1,0,1,0,1,1,0,90
+232,Dembélé,Lyon,0,1,0,0,1,0,2,1,90
+233,Dubois,Lyon,0,1,0,0,0,3,3,0,78
+234,Marçal,Lyon,0,1,0,0,1,2,2,0,90
+235,Ekambi,Lyon,0,4,0,0,0,3,1,0,66
+236,Cornet,Lyon,0,0,0,0,2,5,3,0,81
+237,Tousart,Lyon,1,2,1,0,3,3,2,0,90
+238,Bruno Guimarães,Lyon,0,1,1,0,4,0,0,0,90
+239,"Tătăruşanu
+
+ (GK)",Lyon,0,0,0,0,0,0,0,0,0
+240,Andersen,Lyon,0,0,0,0,0,0,0,0,9
+241,Terrier,Lyon,0,0,0,0,0,0,1,0,24
+242,Traoré,Lyon,0,0,0,0,0,0,0,0,0
+243,Mendes,Lyon,0,0,0,0,0,0,0,0,0
+244,Tete,Lyon,0,0,0,0,0,0,0,0,12
+245,Caqueret,Lyon,0,0,0,0,0,0,0,0,0
+246,Rudi Garcia,Lyon(COACH),0,0,0,0,0,0,0,0,0
+247,"Szczęsny
+
+ (GK)",Juventus,0,0,0,0,0,0,0,0,90
+248,De Ligt,Juventus,0,0,0,0,1,0,1,0,90
+249,Pjanić,Juventus,0,1,0,0,1,1,0,0,61
+250,Ronaldo,Juventus,0,4,0,0,0,3,0,2,90
+251,Dybala,Juventus,0,2,0,0,0,7,0,1,90
+252,Alex Sandro,Juventus,0,2,0,0,2,9,1,0,90
+253,Danilo,Juventus,0,1,0,0,1,2,2,0,90
+254,Cuadrado,Juventus,0,0,0,0,1,1,0,0,70
+255,Bonucci,Juventus,0,0,0,0,2,0,1,0,90
+256,Rabiot,Juventus,0,1,0,0,0,2,0,0,78
+257,Bentancur,Juventus,0,0,0,0,1,5,2,0,90
+258,"Buffon
+
+ (GK)",Juventus,0,0,0,0,0,0,0,0,0
+259,De Sciglio,Juventus,0,0,0,0,0,0,0,0,0
+260,Ramsey,Juventus,0,1,0,0,0,2,1,0,29
+261,Matuidi,Juventus,0,0,0,0,0,0,0,0,0
+262,Higuaín,Juventus,0,2,0,0,0,0,0,0,20
+263,Rugani,Juventus,0,0,0,0,0,0,0,0,0
+264,Bernardeschi,Juventus,0,0,0,0,0,2,0,0,12
+265,Maurizio Sarri,Juventus(COACH),0,0,0,0,0,0,0,0,0
+266,"Courtois
+
+ (GK)",Real Madrid,0,0,0,0,0,0,0,0,90
+267,Carvajal,Real Madrid,0,0,0,0,0,2,2,0,90
+268,Ramos,Real Madrid,0,1,0,0,3,0,1,0,90
+269,Varane,Real Madrid,0,1,0,0,1,0,0,0,90
+270,Benzema,Real Madrid,0,1,1,0,0,0,1,0,90
+271,Modrić,Real Madrid,0,0,0,0,3,2,1,0,84
+272,Casemiro,Real Madrid,0,1,0,0,2,1,1,0,90
+273,Valverde,Real Madrid,0,0,0,0,1,1,3,0,90
+274,Isco,Real Madrid,1,1,1,0,0,1,0,0,84
+275,Mendy,Real Madrid,0,1,0,0,1,6,0,0,90
+276,Vinícius Júnior,Real Madrid,0,0,0,1,1,2,3,0,75
+277,"Areola
+
+ (GK)",Real Madrid,0,0,0,0,0,0,0,0,0
+278,Éder Militão,Real Madrid,0,0,0,0,0,0,0,0,0
+279,Kroos,Real Madrid,0,0,0,0,0,0,0,0,0
+280,Bale,Real Madrid,0,2,0,0,0,1,0,0,15
+281,Marcelo,Real Madrid,0,0,0,0,0,0,0,0,0
+282,Lucas Vázquez,Real Madrid,0,0,0,0,1,1,1,0,6
+283,Jović,Real Madrid,0,0,0,0,0,0,0,0,6
+284,Zinédine Zidane,Real Madrid(COACH),0,0,0,0,0,0,0,0,0
+285,"Ederson
+
+ (GK)",Man. City,0,0,0,0,0,0,0,0,90
+286,Walker,Man. City,0,0,0,0,3,0,0,0,90
+287,Gündoğan,Man. City,0,0,0,0,2,0,0,0,90
+288,Jesus,Man. City,1,4,2,0,2,0,0,0,90
+289,Laporte,Man. City,0,0,0,0,0,0,0,0,33
+290,Rodri,Man. City,0,0,0,0,0,0,2,0,90
+291,De Bruyne,Man. City,1,2,0,1,2,6,2,0,90
+292,Bernardo Silva,Man. City,0,2,1,0,0,0,0,0,73
+293,B. Mendy,Man. City,0,1,0,0,2,3,4,0,90
+294,Mahrez,Man. City,0,4,3,0,2,2,2,0,90
+295,Otamendi,Man. City,0,0,0,0,0,0,0,0,90
+296,"Bravo
+
+ (GK)",Man. City,0,0,0,0,0,0,0,0,0
+297,Sterling,Man. City,0,1,1,0,0,0,0,0,17
+298,Agüero,Man. City,0,0,0,0,0,0,0,0,0
+299,David Silva,Man. City,0,0,0,0,0,0,0,0,0
+300,Fernandinho,Man. City,0,1,0,0,2,0,0,0,57
+301,João Cancelo,Man. City,0,0,0,0,0,0,0,0,0
+302,Foden,Man. City,0,0,0,0,0,0,0,0,0
+303,Josep Guardiola,Man. City(COACH),0,0,0,0,0,0,0,0,0
+304,"Cillessen
+
+ (GK)",Valencia,0,0,0,0,0,0,0,0,90
+305,Kondogbia,Valencia,0,1,0,0,1,0,2,1,90
+306,Soler,Valencia,0,1,0,0,0,0,0,0,90
+307,Gameiro,Valencia,2,4,3,0,0,3,2,2,90
+308,Parejo,Valencia,0,1,0,1,0,6,0,0,90
+309,Diakhaby,Valencia,0,0,0,0,0,0,2,0,46
+310,Gayà,Valencia,0,2,0,0,0,4,1,0,90
+311,Coquelin,Valencia,0,0,0,0,2,0,2,0,74
+312,Wass,Valencia,0,0,0,0,1,2,3,0,90
+313,Rodrigo,Valencia,0,4,1,0,1,2,1,0,79
+314,Ferrán Torres,Valencia,1,3,3,1,0,3,0,0,90
+315,"Doménech
+
+ (GK)",Valencia,0,0,0,0,0,0,0,0,0
+316,Gonçalo Guedes,Valencia,0,0,0,0,0,2,0,0,44
+317,Cheryshev,Valencia,0,0,0,0,0,1,0,0,16
+318,Lee,Valencia,0,0,0,0,0,0,0,0,0
+319,Rubén Sobrino,Valencia,0,0,0,0,0,0,0,0,0
+320,Florenzi,Valencia,0,0,0,0,1,0,0,0,11
+321,Hugo Guillamón,Valencia,0,0,0,0,0,0,0,0,0
+322,Albert Celades,Valencia(COACH),0,0,0,0,0,0,0,0,0
+323,"Sportiello
+
+ (GK)",Atalanta,0,0,0,0,0,0,0,0,90
+324,Caldara,Atalanta,0,0,0,0,3,0,1,0,90
+325,Palomino,Atalanta,0,0,0,0,5,0,0,0,90
+326,Gosens,Atalanta,0,0,0,0,2,3,1,0,90
+327,Gómez,Atalanta,0,0,0,0,2,1,0,0,78
+328,Freuler,Atalanta,0,1,0,1,1,0,3,0,90
+329,De Roon,Atalanta,0,0,0,0,0,0,1,0,44
+330,Djimsiti,Atalanta,0,0,0,0,0,0,1,0,90
+331,Hateboer,Atalanta,0,0,0,0,0,2,0,1,90
+332,Iličić,Atalanta,4,4,2,0,2,5,0,0,90
+333,Pašalić,Atalanta,0,1,0,0,2,0,2,0,83
+334,"Rossi
+
+ (GK)",Atalanta,0,0,0,0,0,0,0,0,0
+335,Tameze,Atalanta,0,0,0,0,0,0,1,0,7
+336,Czyborra,Atalanta,0,0,0,0,0,0,0,0,0
+337,Muriel,Atalanta,0,0,0,0,0,0,0,0,0
+338,Malinovskyi,Atalanta,0,0,0,0,0,0,0,0,12
+339,Castagne,Atalanta,0,0,0,0,0,0,0,0,0
+340,Zapata,Atalanta,0,2,1,0,0,0,2,0,46
+341,Gian Piero Gasperini,Atalanta(COACH),0,0,0,0,0,0,0,0,0
+342,"Gulácsi
+
+ (GK)",Leipzig,0,0,0,0,0,0,0,0,90
+343,Angeliño,Leipzig,0,0,0,1,1,8,1,0,90
+344,Upamecano,Leipzig,0,1,0,0,1,0,5,0,90
+345,Sabitzer,Leipzig,2,3,2,0,3,0,2,0,87
+346,Werner,Leipzig,0,5,2,1,0,3,4,1,90
+347,Klostermann,Leipzig,0,0,0,0,4,0,1,0,90
+348,Nkunku,Leipzig,0,0,0,0,0,2,0,0,59
+349,Schick,Leipzig,0,2,0,0,1,0,1,1,90
+350,Mukiele,Leipzig,0,0,0,0,0,2,0,1,55
+351,Halstenberg,Leipzig,0,0,0,0,1,1,3,0,90
+352,Laimer,Leipzig,0,0,0,0,2,1,3,0,90
+353,"Mvogo
+
+ (GK)",Leipzig,0,0,0,0,0,0,0,0,0
+354,Haidara,Leipzig,0,0,0,0,2,0,0,0,31
+355,Y. Poulsen,Leipzig,0,0,0,0,0,0,0,0,0
+356,Forsberg,Leipzig,1,1,1,0,0,0,1,0,3
+357,Adams,Leipzig,0,1,0,0,0,1,0,0,35
+358,Lookman,Leipzig,0,0,0,0,0,0,0,0,0
+359,Olmo,Leipzig,0,0,0,0,0,0,0,0,0
+360,Julian Nagelsmann,Leipzig(COACH),0,0,0,0,0,0,0,0,0
+361,"Lloris
+
+ (GK)",Tottenham,0,0,0,0,0,0,0,0,90
+362,Alderweireld,Tottenham,0,0,0,0,0,0,1,0,90
+363,Winks,Tottenham,0,0,0,0,1,0,4,0,90
+364,Lamela,Tottenham,0,1,0,0,1,1,1,0,90
+365,Dier,Tottenham,0,0,0,0,2,0,0,0,90
+366,Lo Celso,Tottenham,0,1,1,0,1,5,0,0,80
+367,Sessegnon,Tottenham,0,1,0,0,3,2,1,1,90
+368,Alli,Tottenham,0,1,1,0,0,1,3,0,90
+369,Aurier,Tottenham,0,0,0,0,1,4,1,0,115
+370,Moura,Tottenham,0,1,0,0,2,0,0,0,90
+371,Tanganga,Tottenham,0,0,0,0,0,0,1,0,90
+372,"Gazzaniga
+
+ (GK)",Tottenham,0,0,0,0,0,0,0,0,0
+373,Vertonghen,Tottenham,0,0,0,0,0,0,0,0,0
+374,Ndombélé,Tottenham,0,0,0,0,0,0,0,0,0
+375,Skipp,Tottenham,0,0,0,0,0,0,0,0,0
+376,Gedson Fernandes,Tottenham,0,1,1,0,0,0,0,0,10
+377,Parrott,Tottenham,0,0,0,0,0,0,0,0,0
+378,Fagan-Walcott,Tottenham,0,0,0,0,0,0,0,0,10
+379,José Mourinho,Tottenham(COACH),0,0,0,0,0,0,0,0,0
+380,"Adrián
+
+ (GK)",Liverpool,0,0,0,0,0,0,0,0,90
+381,Van Dijk,Liverpool,0,0,0,0,1,0,1,0,90
+382,Wijnaldum,Liverpool,1,3,3,0,0,2,0,1,6
+383,Firmino,Liverpool,1,5,2,0,1,0,2,0,13
+384,Mané,Liverpool,0,5,1,0,2,5,1,1,90
+385,Salah,Liverpool,0,7,2,0,0,2,2,0,90
+386,Gomez,Liverpool,0,0,0,0,1,0,2,0,90
+387,Henderson,Liverpool,0,1,0,0,2,1,3,0,6
+388,Oxlade-Chamberlain,Liverpool,0,6,2,1,3,6,0,0,82
+389,Robertson,Liverpool,0,4,0,0,3,13,1,0,90
+390,Alexander-Arnold,Liverpool,0,2,1,0,0,25,4,0,90
+391,"Lonergan
+
+ (GK)",Liverpool,0,0,0,0,0,0,0,0,0
+392,Fabinho,Liverpool,0,0,0,0,0,0,0,0,14
+393,Milner,Liverpool,0,0,0,0,0,5,1,0,8
+394,Minamino,Liverpool,0,0,0,0,0,2,0,0,7
+395,Lallana,Liverpool,0,0,0,0,0,0,0,0,0
+396,Origi,Liverpool,0,1,0,0,0,1,0,0,14
+397,Matip,Liverpool,0,0,0,0,0,0,0,0,0
+398,Jürgen Klopp,Liverpool(COACH),0,0,0,0,0,0,0,0,0
+399,"Oblak
+
+ (GK)",Atl�tico,0,0,0,0,0,0,0,0,90
+400,Thomas,Atl�tico,0,0,0,0,4,0,2,0,90
+401,Koke,Atl�tico,0,0,0,0,2,2,2,0,90
+402,João Félix,Atl�tico,0,2,2,1,0,0,0,2,3
+403,Saúl Ñíguez,Atl�tico,0,2,0,0,6,0,0,1,90
+404,Correa,Atl�tico,0,1,1,0,0,0,5,0,6
+405,Renan Lodi,Atl�tico,0,0,0,0,2,5,2,0,90
+406,Savić,Atl�tico,0,0,0,0,0,0,1,0,90
+407,Felipe,Atl�tico,0,1,0,0,3,0,2,0,90
+408,Diego Costa,Atl�tico,0,1,0,0,0,0,1,0,56
+409,Trippier,Atl�tico,0,0,0,0,1,0,1,0,91
+410,"Adán
+
+ (GK)",Atl�tico,0,0,0,0,0,0,0,0,0
+411,Giménez,Atl�tico,0,0,0,0,0,0,0,0,9
+412,Morata,Atl�tico,1,1,1,1,0,0,0,0,12
+413,Lemar,Atl�tico,0,0,0,0,0,0,0,0,0
+414,Llorente,Atl�tico,2,2,2,1,0,0,0,1,34
+415,Carrasco,Atl�tico,0,0,0,0,0,0,0,0,0
+416,Vrsaljko,Atl�tico,0,0,0,0,0,0,1,0,24
+417,Diego Simeone,Atl�tico (COACH),0,0,0,0,0,0,0,0,0
+418,"Navas
+
+ (GK)",Paris,0,0,0,0,0,0,0,0,90
+419,Kimpembe,Paris,0,0,0,0,2,0,1,0,90
+420,Kehrer,Paris,0,0,0,0,1,0,1,0,90
+421,Marquinhos,Paris,0,0,0,0,2,0,1,0,90
+422,Paredes,Paris,0,0,0,0,1,0,2,0,115
+423,Cavani,Paris,0,2,1,0,0,0,3,1,90
+424,Neymar,Paris,1,2,1,0,0,4,0,0,90
+425,Di María,Paris,0,1,1,1,0,4,0,0,79
+426,Bernat,Paris,1,2,1,0,1,0,3,0,90
+427,Sarabia,Paris,0,0,0,1,0,1,0,1,64
+428,Gueye,Paris,0,0,0,0,1,1,2,0,90
+429,"Rico
+
+ (GK)",Paris,0,0,0,0,0,0,0,0,0
+430,Mbappé,Paris,0,1,0,0,1,0,0,0,26
+431,Icardi,Paris,0,0,0,0,0,0,0,0,0
+432,Kurzawa,Paris,0,0,0,0,0,0,0,0,11
+433,Diallo,Paris,0,0,0,0,0,0,0,0,0
+434,Draxler,Paris,0,0,0,0,0,0,0,0,0
+435,Kouassi,Paris,0,0,0,0,0,0,0,0,15
+436,Thomas Tuchel,Paris(COACH),0,0,0,0,0,0,0,0,0
+437,"Bürki
+
+ (GK)",Dortmund,0,0,0,0,0,0,0,0,90
+438,Zagadou,Dortmund,0,2,0,0,1,0,1,0,90
+439,Hakimi,Dortmund,0,0,0,0,2,10,1,0,87
+440,Sancho,Dortmund,0,3,2,0,0,3,0,0,90
+441,Guerreiro,Dortmund,0,0,0,0,2,2,2,0,90
+442,Hummels,Dortmund,0,0,0,0,1,0,1,0,90
+443,Haaland,Dortmund,0,0,0,0,1,0,1,0,90
+444,T. Hazard,Dortmund,0,2,0,0,0,0,4,0,68
+445,Piszczek,Dortmund,0,0,0,0,2,2,1,0,90
+446,Emre Can,Dortmund,0,1,0,0,1,1,3,0,90
+447,Witsel,Dortmund,0,0,0,0,0,0,2,0,71
+448,"Hitz
+
+ (GK)",Dortmund,0,0,0,0,0,0,0,0,0
+449,Dahoud,Dortmund,0,0,0,0,0,0,0,0,0
+450,Götze,Dortmund,0,0,0,0,0,0,1,0,3
+451,Akanji,Dortmund,0,0,0,0,0,0,0,0,0
+452,Brandt,Dortmund,0,2,0,0,0,4,0,0,22
+453,Schmelzer,Dortmund,0,0,0,0,0,0,0,0,0
+454,Reyna,Dortmund,0,1,0,0,0,2,0,0,19
+455,Lucien Favre,Dortmund(COACH),0,0,0,0,0,0,0,0,0
